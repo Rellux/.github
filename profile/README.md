@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">Pixel Clap offers over 45+ Modifications:<br>* Player Modifications<br>* World Modifications<br>* Macros<br>* ESP</p>
+Pixel Clap offers over 45+ Modifications:
+* Player Modifications
+* World Modifications
+* Macros
+* ESP
 
 ###
 
